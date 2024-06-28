@@ -7,7 +7,7 @@ export default function Credit() {
       Made by
       <a href="https://www.linkedin.com/in/haripreeth-thota/"
         > Haripreeth Thota</a
-      >, <a href="https://github.com/shemmee/React-Weather-App">Open sourced on Github.</a> Hosted on Netlify
+      >, <a href="https://github.com/shemmee/React-Weather-App">Open sourced on Github.</a> Hosted on vercel
     </p>
   </div>
   );
