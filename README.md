@@ -14,7 +14,7 @@ A weather app created with React provides real-time weather data and forecasts, 
 ## Demo
 
 Click Here to see and play by yourself a demo of the game.
--[@Tic-Tac-Toe](https://hth-weather-5syigngvn-haripreeth-thotas-projects.vercel.app/)
+-[@Weather-App](https://hth-weather-5syigngvn-haripreeth-thotas-projects.vercel.app/)
 
 
 
